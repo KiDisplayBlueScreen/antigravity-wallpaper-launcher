@@ -1,0 +1,19 @@
+# Local preferences, wallpaper assets and runtime reports
+settings.json
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.ico
+*.lnk
+apply-result.json
+*.tmp
+
+# Generated programs, packages and local build backups
+*.exe
+*.pdb
+*.zip
+bin/
+obj/
